@@ -7,10 +7,10 @@ export const data = [
         path:"/blog1"
     },
     {
-        title:"What about the BLack people already here",
+        title:"when is the best time to go to Africa",
         author:"Monk",
         date:"11-12-1988",
-        body:"We have no problem with black people who chose to deny or diminsh their Afircan heritage. We get it inferiozaion is rampant and we were trained not love africa. We also do acknowlegde that there is  a theroy that mansa musa came to America before columbus. However this theroy does not negate the fact that there was a slave trade. To the black people that tend to deny the maafa. We say this with the most love this is not the platform for you. take that divisive,fake woke, cointelpro content else where. This is a Proud pan afircan platform and forum. ",
+        body:"I often get asked when is the best time to go to Africa. I retort ot depend on your personality are yuou a person that likes to be around a large crowd if so then maybe december and janurary is best for you. this is when the expats come and toursit too. If you are more of a low key person then maybe traveling in the summer might be best for you.",
         path:"/blog2"
     },
     {

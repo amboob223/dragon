@@ -1,0 +1,13 @@
+
+.container{
+    background-color: white;
+}
+
+body{
+    background-color: red;
+}
+
+.draggable{
+    border-color: black;
+    border: solid;
+}
